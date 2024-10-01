@@ -15,9 +15,6 @@ If you're thinking to yourself, **_This is unbelievable_**, you'd probably be ri
 ##### Header five
 ###### Header six
 
-#### Colombian Symbolism in One Hundred Years of Solitude
-Here's some words about the book _One Hundred Years..._.
-
 #### Colombian Symbolism in _One Hundred Years of Solitude_
 
 Here's some words about the book _One Hundred Years..._.
@@ -80,7 +77,7 @@ I read this interesting quote the other day:
 
  1. Cut the cheese
 
-    Make sure that the cheese is cut into little triangles.
+   Make sure that the cheese is cut into little triangles.
 
 2. Slice the tomatoes
 
